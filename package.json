@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://new-coder-tutor-spt.github.io/hr-web",
+  "homepage": "https://cbot918.github.io/hr-web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
